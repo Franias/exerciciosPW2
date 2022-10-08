@@ -1,0 +1,7 @@
+/home/pw2/dev/clean/src/main/java/dev/ifrs/interfaceadapters/user/repository/entity/UserEntity.java
+/home/pw2/dev/clean/src/main/java/dev/ifrs/model/User.java
+/home/pw2/dev/clean/src/main/java/dev/ifrs/usecase/user/UseCase.java
+/home/pw2/dev/clean/src/main/java/dev/ifrs/interfaceadapters/user/controller/UserController.java
+/home/pw2/dev/clean/src/main/java/dev/ifrs/interfaceadapters/user/controller/UserControllerInterface.java
+/home/pw2/dev/clean/src/main/java/dev/ifrs/web/user/WS.java
+/home/pw2/dev/clean/src/main/java/dev/ifrs/usecase/user/UseCaseInterface.java
