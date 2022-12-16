@@ -6,8 +6,8 @@ public class Service {
     @Consumes(MediaType.TEXT_PLAIN)
     @Produces(MediaType.TEXT_PLAIN)
 
-    public String generate(@PathParam("user") String user,)
-                            @PathParam("password") String password {
+    public String generate(@PathParam("user") String user,
+                            @PathParam("password") String password ){
                                 //aqui é o ponto que vc verifica se
                                 //o usuario existe
         System.out.println(user);
